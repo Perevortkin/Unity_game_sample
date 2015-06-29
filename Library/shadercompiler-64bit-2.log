@@ -1,0 +1,13 @@
+Base path: D:/Новая папка/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-6104
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=5 type=0 insize=1482 outsize=1719 kw=SOFTPARTICLES_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1482 outsize=7 kw=SOFTPARTICLES_ON ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Канал был закрыт.
+
+
+Quitting shader compiler process
+
+Crashed!
